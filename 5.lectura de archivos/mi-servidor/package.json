@@ -1,0 +1,27 @@
+{
+  "name": "mi-servidor",
+  "version": "0.0.0",
+  "private": true,
+    "type": "commonjs",
+
+  "scripts": {
+    "start": "nodemon ./bin/www",
+    "dev": "nodemon app.js",
+    "test": "jest --watchAll"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "^4.21.2",
+    "morgan": "~1.9.1",
+    "socket.io": "^4.8.1",
+    "types": "^0.1.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.10"
+  }
+
+
+
+}

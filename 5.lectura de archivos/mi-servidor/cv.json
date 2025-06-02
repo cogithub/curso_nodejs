@@ -1,0 +1,71 @@
+{
+  "personal_info": {
+    "name": "Carlos Eduardo Ocando Azuaje",
+    "title": "Consultor Senior - Software FullStack",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "contact": {
+      "address": "Av. Santa Rosa, Edif. 634, Dpto 903",
+      "phone": "+56 9 6800 2846",
+      "email": "carloseocando@gmail.com",
+      "linkedin": "Perfil de Linkedin"
+    }
+  },
+  "skills": [
+    "Java", "Spring Boot", "JavaScript", "TypeScript", "Angular", "Node.js", 
+    "PHP (Laravel)", "C# (.NET Core)", "Kotlin", "Python", "MySQL", 
+    "PostgreSQL", "Informix", "SQL Server", "Oracle", "DynamoDB", 
+    "Docker", "Kubernetes", "Terraform", "Ansible", "Firebase", 
+    "Power BI", "Azure DevOps", "AWS Lambda", "Nginx", "IIS", "WSO2"
+  ],
+  "experience": [
+    {
+      "company": "Sermaluc",
+      "role": "Consultor Senior - Software FullStack",
+      "duration": "Oct 2022 - Mar 2025",
+      "tasks": ["Migración portal Pyme BCI (JSF a Spring Boot y Angular)"]
+    },
+    {
+      "company": "Axity",
+      "role": "Consultor de Tecnología Senior",
+      "duration": "Dic 2021 - Oct 2022",
+      "tasks": [
+        "Desarrollo sitio web UCCHRISTUS (HTML, CSS, Bootstrap)",
+        "Creación de API Serverless (AWS Lambda, Python, Node.js)",
+        "Mantenimiento plataforma control licencias médicas (Angular, Ionic)"
+      ]
+    },
+    {
+      "company": "Trebol-IT",
+      "role": "Líder IT - DevOps y CI/CD",
+      "duration": "Mar 2020 - Dic 2021",
+      "tasks": [
+        "Infraestructura en nube",
+        "Despliegues con Docker y Kubernetes",
+        "Gestión de DevOps en Azure"
+      ]
+    }
+  ],
+  "certifications": [
+    "Azure: Máquinas Virtuales",
+    "JavaScript Esencial y Avanzado",
+    "Ionic Esencial",
+    "Node.js Esencial",
+    "Microservicios con Spring Boot y Spring Cloud Netflix Eureka",
+    "Fundamentos en DevOps y Arquitectura de Microservicios",
+    "Seguridad Informática y Ciberseguridad",
+    "Aprende Firebase",
+    "Administración de servidores Linux esencial",
+    "Java Servicios Web",
+    "Python Esencial",
+    "AWS para profesionales IT",
+    "Kotlin Esencial",
+    "Power BI Esencial",
+    "Azure Functions Esencial",
+    ".NET Core Esencial",
+    "Fundamentos de C# con .NET Core",
+    "Introducción a PHP",
+    "Introducción a Terminal y Línea de Comandos",
+    "PHP con Laravel",
+    "Azure DevOps y VSTS Esencial"
+  ]
+}

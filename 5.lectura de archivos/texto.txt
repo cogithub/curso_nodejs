@@ -1,0 +1,3 @@
+Este es un ejemplo de escritura en un archivo usando Node 
+ hora: ---> Sat May 10 2025 18:38:44 GMT-0400 (Chile Standard Time)
+ --> Este es el ULTIMO contenido del archivo --> prueba por input
