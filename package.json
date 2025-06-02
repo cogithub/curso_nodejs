@@ -1,0 +1,36 @@
+{
+  "name": "curso-de-nodejs", // Nombre del proyecto
+  "version": "1.0.0", // Versión actual del proyecto
+  "main": "apps.js", // Archivo principal que se ejecuta al iniciar la aplicación
+  "scripts": { 
+    "test": "echo \"Error: no test specified\" && exit 1", // Script de prueba predeterminado (debe ser reemplazado por pruebas reales)
+    "st": "node server.js", // Inicia el servidor con Node.js
+    "sw": "nodemon server.js", // Inicia el servidor usando nodemon para autorecargar cambios
+    "aw": "nodemon apps.js", // Ejecuta el archivo `apps.js` con nodemon
+    "start": "node server.js" // Comando estándar para iniciar el servidor
+  },
+  "repository": { 
+    "type": "git", // Tipo de repositorio de código fuente
+    "url": "git+ssh://git@bitbucket.org/coxbitbucket/curso-de-nodejs.git" // URL del repositorio en Bitbucket
+  },
+  "keywords": [], // Palabras clave relacionadas con el proyecto (puede ser útil para búsquedas en npm)
+  "author": "", // Nombre del autor del proyecto (puedes completarlo)
+  "type": "module", // Especifica que se usa módulos ES6 en lugar de CommonJS
+  "license": "ISC", // Tipo de licencia del proyecto
+  "bugs": { 
+    "url": "https://bitbucket.org/coxbitbucket/curso-de-nodejs/issues" // Enlace para reportar errores
+  },
+  "homepage": "https://bitbucket.org/coxbitbucket/curso-de-nodejs#readme", // Página principal del proyecto
+  "dependencies": { 
+    "chalk": "^5.4.1", // Biblioteca para dar estilo a la salida en la consola
+    "dotenv": "^16.5.0", // Manejo de variables de entorno desde un archivo `.env`
+    "events": "^3.3.0", // Manejo de eventos en Node.js
+    "express": "^5.1.0", // Framework para crear servidores web en Node.js
+    "express-generator": "^4.2.0", // Generador de estructuras básicas para proyectos con Express
+    "loadsh": "^0.0.4", // Probablemente un error tipográfico, debería ser `lodash`
+    "lodash": "^4.17.21", // Biblioteca para manejo avanzado de estructuras de datos
+    "require": "^0.4.4", // Módulo para manejar dependencias de manera dinámica (no suele ser necesario en proyectos modernos)
+    "split": "^1.0.1" // Biblioteca para dividir flujos de datos
+  },
+  "description": "" // Descripción del proyecto (puedes completarla para mejorar la documentación)
+}
